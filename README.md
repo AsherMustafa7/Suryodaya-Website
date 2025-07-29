@@ -1,5 +1,5 @@
-**UP Suryoday - Illuminate Your Path
-**
+UP Suryoday - Illuminate Your Path
+
 An interactive web experience showcasing the importance of light and introducing the "UP Suryoday" initiative, which focuses on the maintenance and repair of solar street lights in Uttar Pradesh, India. This project combines immersive 3D graphics with smooth animations to create an engaging user journey.
 Preview - https://ashermustafa7.github.io/Suryodaya-Website/
 🌟 Features
